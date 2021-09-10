@@ -3,6 +3,8 @@
 # Jump Point Search
 Jump Point Search algorithm implemented in Java. This is forked from [jps](https://github.com/kevinsheehan/jps) which started as a port of the JPS algorithm implemented in the [PathFinding.js](https://github.com/qiao/PathFinding.js) project.
 
+Current head is forked from [this commit](https://github.com/kevinsheehan/jps/commit/67c4664b71af5c72575cdbef1e64213d0c2a903f)
+
 ## Requirements
 This library has been built using Java 8 up to this point. Making it compatible with other versions of Java is possible but at this point unlikely.
 
